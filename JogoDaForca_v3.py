@@ -123,7 +123,7 @@ def palavra_aleatoria():
     palavra = random.choice(palavras)
     return palavra
 
-#
+# Método Principal
 def main():
     game = Hangman(palavra_aleatoria())
     while not game.hangman_acabou():
