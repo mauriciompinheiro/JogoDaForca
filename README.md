@@ -29,3 +29,6 @@ f. Verificar se todas as letras da palavra foram adivinhadas;
 g. Se todas as letras foram adivinhadas, exibir a mensagem "Você venceu!";
 
 h. Se o número de tentativas restantes chegar a zero, exibir a mensagem "Você perdeu. A palavra era [palavra escolhida]" e encerrar o jogo.
+
+
+Obs: A versão 3 foi desenvolvida através de POO.
